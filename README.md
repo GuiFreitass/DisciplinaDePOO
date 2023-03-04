@@ -1,6 +1,5 @@
 # DisciplinaDePOO
  Questão | Enunciado
-##
 --------- | ------
 q_01| texto bla bla bla blka
 q_02 | bla bla bla2
