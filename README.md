@@ -10,5 +10,4 @@ q_17| Um trabalhador recebeu seu salário e o depositou em sua conta corrente ba
 q_21| Faça um programa para calcular e mostrar a que distância deve estar uma escada da parede. O usuário deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro. 
 q_22| Sabe-se que o quilowatt de energia casta um quinto do salário mínimo. Faça um pro- grama que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência, Calcule e mostre: a) o valor, em reais, de cada quilowatt; b) o valor, em reais, a ser pago por essa residencia; c) o valor, em reais, a ser pago com desconto de 15%
 q_23|Faça um programa que receba um número real, calcule e mostre: a) a parte inteira desse número: ; b) a parte fracionária desse número: ; c) o arredondamento desse número.
-q_24|aça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que:
-para quatro e meia deve-se digitar 4.30. os minutos vão de 0 a 60.
+q_24|Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que: para quatro e meia deve-se digitar 4.30. os minutos vão de 0 a 60.
