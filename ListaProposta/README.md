@@ -1,4 +1,6 @@
 #ListaPoposta
+Questão | Enunciado
+--------- | ------
 q_01|  Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
 q_06 | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo de um funcionário e o valor de suas vendas, calcule e mostre a comissão e o salário final do funcionário.
 q_09 | Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que: A = ((base maior + base menor) * altura)/2
