@@ -7,4 +7,4 @@
  
 
 - Questões da [`Lista Resolvida`](https://github.com/GuiFreitass/DisciplinaDePOO/tree/main/ListaResolvida)
-- Questões da [`Lista Proposta`]((https://github.com/GuiFreitass/DisciplinaDePOO/tree/main/ListaProposta)
+- Questões da [`Lista Proposta`](https://github.com/GuiFreitass/DisciplinaDePOO/tree/main/ListaProposta)
