@@ -6,5 +6,5 @@
 </p>
  
 
-- Questões da [`Lista Resolvida`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvida)
-- Questões da [`Lista Proposta`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaProposta)
+- Questões da [`Lista Resolvida`](https://github.com/GuiFreitass/DisciplinaDePOO/tree/main/ListaResolvida)
+- Questões da [`Lista Proposta`]((https://github.com/GuiFreitass/DisciplinaDePOO/tree/main/ListaProposta)
